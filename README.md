@@ -1,1 +1,1 @@
-# cdn1
+# WWW.XDA.IM 图片CDN服务1
